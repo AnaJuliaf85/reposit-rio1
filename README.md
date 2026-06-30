@@ -17,4 +17,4 @@ _essa doçura é minha cura_
 -Tem 29 anos e mora em São Paulo
 
 
-![https://play.google.com/store/apps/details?id=com.riffsy.FBMGIFApp]
+! [https://play.google.com/store/apps/details?id=com.riffsy.FBMGIFApp]
