@@ -17,4 +17,4 @@ _essa doçura é minha cura_
 -Tem 29 anos e mora em São Paulo
 
 
-! [marina](https://media1.tenor.com/m/5JyR8IT8H44AAAAC/ngetsnow-marina-sena.gif)
+![marina](https://media1.tenor.com/m/5JyR8IT8H44AAAAC/ngetsnow-marina-sena.gif)
